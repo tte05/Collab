@@ -1,0 +1,39 @@
+
+
+.footerContainer{
+    background-color: #000;
+    color: white;
+    height: 500px;
+}
+
+.wrapper{
+    left: 155px;
+    position: relative;
+    top: 45px;
+}
+
+.footerContainer div{
+    display: inline-block;
+    vertical-align: text-top;
+    margin-right: 140px;
+    margin-bottom: 2rem;
+}
+
+.headline{
+    font-size: 23px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+button{
+    color: #666666;
+    margin-bottom: 6px;
+    font-size: 18px;
+    text-align: left;
+}
+
+hr{
+    position: relative;
+    border: solid #666666 1px;
+    width: 90%;
+}
