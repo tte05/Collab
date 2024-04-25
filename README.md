@@ -14,4 +14,8 @@
 
 4. Стилистика
     * Ссылка на figma: https://www.figma.com/file/FRrNREVznaHdGKfPnC7GMo/AI-Blog-Website-UI-Template---Dark-Theme-%7C-Produce-UI-(Community)?type=design&node-id=18-214&mode=design&t=x17WSmvmGeP7CHVR-0
+<<<<<<< HEAD
     * Все стили устанавливаем согласно только этому документы. 
+=======
+    * Все стили устанавливаем согласно только этому документы. 
+>>>>>>> 5f8191eaaa1563acc0228bfa033671273f11a3f1
